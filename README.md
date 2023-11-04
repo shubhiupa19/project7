@@ -1,4 +1,4 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Crewmate WebApp*
 
 Submitted by: **Shubhi**
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=Kapture 2023-11-04 at 14.53.33.gif alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
